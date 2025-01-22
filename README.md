@@ -64,7 +64,10 @@ The project deals with ANPR, which is the detection and recognition of license p
   ```
 
 ## Images 
-![Watch the video](https://drive.google.com/file/d/1oiag7NzsZJismlO4Z_CMTzZ-nXDf9ZfG/view?usp=share_link)
+<img width="551" alt="Image" src="https://github.com/user-attachments/assets/2ddea0b7-8431-4f3f-8433-8dfb6bfb0c7e" />
+<img width="550" alt="Image" src="https://github.com/user-attachments/assets/fb4a38b3-8453-4038-8307-43eecd71299e" />
+<img width="545" alt="Image" src="https://github.com/user-attachments/assets/1507d68c-8fe9-4d9b-9ce0-297036a8632f" />
+<img width="549" alt="Image" src="https://github.com/user-attachments/assets/70e8492c-f96d-4f80-89e2-2549efd728e0" />
 
 ## References
 The code used in this project was inspired by the following YouTube tutorial:
